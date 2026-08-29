@@ -30,6 +30,7 @@
 ## Dev Tools
 | Tool | Description |
 |------|-------------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language regression testing for web, Android & iOS |
 | [Postman](https://postman.com) | API testing & development |
 | [TablePlus](https://tableplus.com) | Modern database GUI |
 | [Insomnia](https://insomnia.rest) | REST & GraphQL client |
