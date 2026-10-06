@@ -36,6 +36,8 @@
 | [Fig](https://fig.io) | Terminal autocomplete |
 | [Warp](https://warp.dev) | AI-powered terminal |
 | [DevDocs](https://devdocs.io) | All documentation in one place |
+| [Shipvela](https://shipvela.com) | Static website hosting from GitHub or CLI, with custom domains and HTTPS; free Hobby plan |
+
 
 ## VS Code Extensions
 - **Prettier** — Code formatter
