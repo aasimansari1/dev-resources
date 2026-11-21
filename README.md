@@ -26,6 +26,7 @@
 | [roadmap.sh](https://roadmap.sh) | Developer learning roadmaps |
 | [Exercism](https://exercism.org) | Practice coding in 60+ languages |
 | [LeetCode](https://leetcode.com) | Coding interview prep |
+| [Resource Planet — AI and programming references](https://resources.packscena.com/categories/ai/) | Chinese-language reference directory organized by topic, with descriptions and access instructions on detail pages |
 
 ## Dev Tools
 | Tool | Description |
